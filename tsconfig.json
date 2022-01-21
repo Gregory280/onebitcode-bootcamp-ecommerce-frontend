@@ -23,7 +23,7 @@
     "next-env.d.ts",
     "**/*.ts",
     "**/*.tsx"
-  ],
+, "store/modules/rootReducer"  ],
   "exclude": [
     "node_modules"
   ]
